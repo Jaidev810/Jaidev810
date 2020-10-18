@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 - 🔭 I’m currently working on a Personal Project
 - 🌱 I’m currently learning Data Science and Machine Learning
